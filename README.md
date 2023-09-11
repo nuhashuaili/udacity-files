@@ -1,6 +1,10 @@
 # udacity-files
 
-These are the project's I've completed as part of my nano degree in data analysis. 
+These are the projects I've completed as part of my nano degree in data analysis. 
+The first project, bikeshare data has user interaction to show different statistics from thhree csv files washington, chicago, and new york, it has some input error handelling and the use of pandas and numpys.
+
+The second project is an html file that shows my analysis of different no-show data from hospitals in Brazil. It displays the use of pandas, and plotting skills.
+
 package list:
 
 # Name                    Version                   Build  Channel
